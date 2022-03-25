@@ -2,4 +2,6 @@ hello how are you
 where are you
 how do you do 
 where are you working
-i am in bamgalore
+=======
+i am doing well
+>>>>>>> main
